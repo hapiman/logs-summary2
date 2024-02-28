@@ -1,12 +1,15 @@
 {
   "name": "logs-summary2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
     "logs-summary": "index.js"
   },
-  "repository":"https://github.com/hapiman/logs-summary2.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapiman/logs-summary2.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

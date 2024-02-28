@@ -1,2 +1,1 @@
-# logs-summary2
-same to logs-summary
+## A summary of the git logs.
